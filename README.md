@@ -1,3 +1,5 @@
+# Forked to support PHP8, this version is not actively maintained, consider to use https://github.com/jeremykendall/php-domain-parser as maintained alternative
+
 # DEPRECATED
 
 Please use https://github.com/jeremykendall/php-domain-parser.
