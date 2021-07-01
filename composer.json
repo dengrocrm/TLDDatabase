@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "layershifter/tld-support": "^1.0.0",
+    "layershifter/tld-support": "dev-master",
     "ext-curl": "*",
     "php": "^5.5|^7.0|^8.0"
   },
