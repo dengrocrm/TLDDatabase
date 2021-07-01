@@ -42,5 +42,11 @@
     "lint:cs": "phpcs --standard=psr2 src/",
     "lint:md": "phpmd src text codesize,controversial,design,naming,unusedcode",
     "test": "phpunit"
-  }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/dengrocrm/TLDSupport.git"
+    }
+  ]
 }
